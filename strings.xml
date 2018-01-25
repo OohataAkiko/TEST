@@ -1,6 +1,6 @@
 <resource>
-<strings name="strings_have">have two cell phones<strings/>
-<strings name="strings_make">make a cake<strings/>
+<strings name="strings_have">have three cell phones<strings/>
+<strings name="strings_make">make a lemon cake<strings/>
 <strings name="strings_go">go abroad<strings/>
 <strings name="strings_work">hard work<strings/>
 <strings name="strings_if">if possible<strings/>
@@ -9,11 +9,11 @@
 <strings name="strings_see">as you can see<strings/>
 <strings name="strings_think">I think so<strings/>
 <strings name="strings_tell">tell the truth<strings/>
-<strings name="strings_hear">Can you hear me<strings/>
+<strings name="strings_hear">Can you hear me?<strings/>
 <strings name="strings_come">come closer<strings/>
 <strings name="strings_find">find evidence<strings/>
 <strings name="strings_give">give a chance<strings/>
-<strings name="strings_ask">ask a question<strings/>
+<strings name="strings_ask">May I ask you a question?<strings/>
 <strings name="strings_pay">pay taxes<strings/>
 <strings name="strings_look">look around<strings/>
 <strings name="strings_far">go far<strings/>
@@ -21,5 +21,7 @@
 <strings name="strings_play">play hide-and-seek<strings/>
 <strings name="strings_bring">bring children<strings/>
 <strings name="strings_seem">seem obvious<strings/>
-<strings name="strings_turn">turn the doorknob<strings/>
+<strings name="strings_turn">turn the doorknob and enter the room<strings/>
+<strings name="strings_d3_human">a human being<strings/>
+<strings name="strings_d3_population">the total population<strings/>
 <resource/>
