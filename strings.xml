@@ -1,6 +1,6 @@
 <resource>
-<strings name="strings_have">have two cell phones<strings/>
-<strings name="strings_make">make a cake<strings/>
+<strings name="strings_have">I have two cell phones<strings/>
+<strings name="strings_make">You makes a cake<strings/>
 <strings name="strings_go">go abroad<strings/>
 <strings name="strings_work">hard work<strings/>
 <strings name="strings_if">if possible<strings/>
@@ -8,7 +8,7 @@
 <strings name="strings_get">get a job<strings/>
 <strings name="strings_see">as you can see<strings/>
 <strings name="strings_think">I think so<strings/>
-<strings name="strings_tell">tell the truth<strings/>
+<strings name="strings_tell">I tell the truth<strings/>
 <strings name="strings_hear">Can you hear me<strings/>
 <strings name="strings_come">come closer<strings/>
 <strings name="strings_find">find evidence<strings/>
@@ -18,7 +18,7 @@
 <strings name="strings_look">look around<strings/>
 <strings name="strings_far">go far<strings/>
 <strings name="strings_help">help poor people<strings/>
-<strings name="strings_play">play hide-and-seek<strings/>
+<strings name="strings_play">Let's play hide-and-seek<strings/>
 <strings name="strings_bring">bring children<strings/>
 <strings name="strings_seem">seem obvious<strings/>
 <strings name="strings_turn">turn the doorknob<strings/>
